@@ -1,0 +1,28 @@
+body{
+    font-family: "Roboto";
+}  
+.header{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+.img-fluid{
+    margin: 50px;
+    margin-right: 400px;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+}
+.main{
+    display: flex;
+}
+.main-p{
+    margin: 29px 183px;
+}
+button{
+    background-color: #34547A;
+    color: white;
+    padding: 5px;
+}
